@@ -14,7 +14,6 @@ public:
         while(s[i] >= '0' && s[i] <= '9')
         {
             x = 10*x + s[i]-'0';
-            cout<<x<<endl;
             ++i;
             if(x>2147483647) break;
         }       
