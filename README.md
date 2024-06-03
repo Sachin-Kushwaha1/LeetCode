@@ -13,3 +13,12 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Two Pointers
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Greedy
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
