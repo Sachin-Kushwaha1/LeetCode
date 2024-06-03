@@ -1,7 +1,7 @@
 class Solution {
 public:
     int myAtoi(string s) {
-        long long x=0;
+        long x=0;
         while(s[0] == ' ') s.erase(s.begin());
         int i=0;
         char ne;
