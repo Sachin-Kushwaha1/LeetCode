@@ -32,7 +32,9 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0040-combination-sum-ii) |
 # Array
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0040-combination-sum-ii) |
