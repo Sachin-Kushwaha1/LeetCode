@@ -9,13 +9,9 @@ public:
 	        return;
 	    }
 	    cs += arr[i];
-        if(cs<=sum)
-        {
-
-            v.push_back(arr[i]);
-            cnt(n,arr,i+1,sum,cs,v,ans);
-            v.pop_back();
-        }
+        v.push_back(arr[i]);
+        cnt(n,arr,i+1,sum,cs,v,ans);
+        v.pop_back();
 	    cs -= arr[i];
         int j=i;
         while(j<arr.size() && arr[i]==arr[j]){
@@ -30,12 +26,12 @@ public:
         vector<int>v;
         int cs=0;
         cnt(n,arr,0,sum,cs,v,ans);
-        set<vector<int>>st(ans.begin(),ans.end());
-        ans.clear();
-        for(auto it:st)
-        {
-            ans.push_back(it);
-        }
+        // set<vector<int>>st(ans.begin(),ans.end());
+        // ans.clear();
+        // for(auto it:st)
+        // {
+        //     ans.push_back(it);
+        // }
         return ans;
     }
 };
