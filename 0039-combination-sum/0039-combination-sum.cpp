@@ -8,7 +8,6 @@ public:
 	        if(cs==sum) ans.push_back(v);
 	        return;
 	    }
-	    
 	    cs += arr[i];
         v.push_back(arr[i]);
 	    cnt(n,arr,i,sum,cs,v,ans);
@@ -19,6 +18,7 @@ public:
 	}
     vector<vector<int>> combinationSum(vector<int>& arr, int sum) {
         int n=arr.size();
+        sort(arr.begin(),arr.end());
         vector<vector<int>> ans;
         vector<int>v;
         int cs=0;
