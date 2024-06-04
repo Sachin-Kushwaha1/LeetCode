@@ -26,12 +26,6 @@ public:
         vector<int>v;
         int cs=0;
         cnt(n,arr,0,sum,cs,v,ans);
-        // set<vector<int>>st(ans.begin(),ans.end());
-        // ans.clear();
-        // for(auto it:st)
-        // {
-        //     ans.push_back(it);
-        // }
         return ans;
     }
 };
