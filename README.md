@@ -41,3 +41,16 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0040-combination-sum-ii) |
+| [1217-relative-sort-array](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1217-relative-sort-array) |
+# Hash Table
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1217-relative-sort-array) |
+# Sorting
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1217-relative-sort-array) |
+# Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1217-relative-sort-array) |
