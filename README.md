@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0070-climbing-stairs) |
 # Recursion
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0131-palindrome-partitioning) |
 # Backtracking
 |  |
@@ -57,3 +59,7 @@
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1217-relative-sort-array) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0070-climbing-stairs) |
