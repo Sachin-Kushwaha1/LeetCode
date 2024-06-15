@@ -24,6 +24,7 @@
 # Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0502-ipo](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -55,6 +57,7 @@
 # Sorting
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -67,3 +70,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0070-climbing-stairs) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0502-ipo) |
