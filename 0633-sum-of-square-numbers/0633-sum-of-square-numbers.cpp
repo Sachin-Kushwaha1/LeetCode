@@ -1,19 +1,13 @@
 class Solution {
 public:
-    bool judgeSquareSum(int c) 
-    {
-        int n=sqrt(c);
 
-        for(int i=0;i<=n;i++)
+    bool judgeSquareSum(int c) {
+        for(double i=0;i*i<=c;i++)
         {
-            double b=sqrt(c-i*i);
-            if(b==(int)b)
-            return true;
+            double x = c - i*i;
+            if(floor(sqrt(x)) == ceil(sqrt(x)))
+                return true;
         }
-       
-
-        
         return false;
-        
     }
 };
