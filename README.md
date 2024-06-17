@@ -6,6 +6,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0070-climbing-stairs) |
+| [0633-sum-of-square-numbers](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Recursion
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
 |  |
@@ -76,3 +78,7 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0502-ipo) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0633-sum-of-square-numbers) |
