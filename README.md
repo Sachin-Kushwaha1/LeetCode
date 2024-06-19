@@ -58,6 +58,7 @@
 | [0853-most-profit-assigning-work](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1217-relative-sort-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
@@ -89,3 +90,4 @@
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
