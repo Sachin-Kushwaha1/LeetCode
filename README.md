@@ -57,6 +57,7 @@
 | [0502-ipo](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1217-relative-sort-array](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1217-relative-sort-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -99,10 +100,12 @@
 # Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Ordered Set
 |  |
@@ -112,3 +115,11 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Prefix Sum
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
