@@ -31,6 +31,7 @@
 | [0502-ipo](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Dynamic Programming
@@ -123,3 +124,23 @@
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+# Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
