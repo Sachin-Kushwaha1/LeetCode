@@ -1,7 +1,7 @@
 class Solution {
 public:
     int findCenter(vector<vector<int>>& edges) {
-        map<int,int>m;
+        unordered_map<int,int>m;
         for(auto it:edges)
         {
             ++m[it[0]];
