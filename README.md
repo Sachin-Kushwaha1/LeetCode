@@ -175,6 +175,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
@@ -215,4 +216,8 @@
 |  |
 | ------- |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
