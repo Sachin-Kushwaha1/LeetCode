@@ -167,6 +167,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -178,11 +179,13 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Two Pointers
 |  |
 | ------- |
