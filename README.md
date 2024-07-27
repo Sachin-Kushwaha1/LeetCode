@@ -162,6 +162,7 @@
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sorting
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -230,4 +232,12 @@
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+## String
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
