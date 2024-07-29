@@ -180,6 +180,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -246,4 +247,12 @@
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1511-count-number-of-teams) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
