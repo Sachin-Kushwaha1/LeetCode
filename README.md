@@ -267,4 +267,8 @@
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
