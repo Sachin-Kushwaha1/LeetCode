@@ -241,6 +241,7 @@
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0072-edit-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
@@ -254,6 +255,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0072-edit-distance) |
 | [1196-filling-bookcase-shelves](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
