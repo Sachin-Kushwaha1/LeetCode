@@ -168,6 +168,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -183,6 +184,7 @@
 | [1196-filling-bookcase-shelves](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -198,10 +200,12 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Linked List
 |  |
 | ------- |
