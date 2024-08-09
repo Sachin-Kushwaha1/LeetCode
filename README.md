@@ -181,6 +181,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0054-spiral-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0921-spiral-matrix-iii](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -210,6 +211,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sachin-Kushwaha1/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Linked List
